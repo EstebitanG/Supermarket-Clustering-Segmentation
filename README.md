@@ -2,7 +2,7 @@
 Este proyecto forma parte de mi portfolio de Data Analytics y Data Science, donde se usa el lenguaje de programación Python aplicando técnicas estadísticas y de Machine Learning para segmentar clientes de un supermercado acorde a sus variables sociodemográficas y comportamiento de compra.
 
 # Descripción General 
-Este proyecto busca agrupar clientes con comportamientos y características en común, usando técnicas de aprendizaje no supervisado. Se obtienen 3 clusters finales: 
+Este proyecto busca agrupar clientes con comportamientos y características en común, usando técnicas de aprendizaje no supervisado. Se obtienen 3 clusters finales: "Exploradores Digitales de Bajo Consumo", “Compradores Premium Multicanal” y “Digitales Sofisticados con Consumo Selectivo”.
 
 Los datos fueron sacados del sitio web Kaggle: https://www.kaggle.com/datasets/vishakhdapat/customer-segmentation-clustering
 
